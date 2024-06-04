@@ -1,3 +1,7 @@
+# multiarch image available at
+
+`quay.io/tinkerbellrpardini/actions/waitdaemon:latest`
+
 # waitdaemon
 
 This is a container to be used as a Tinkerbell action. It has the following purposes:
