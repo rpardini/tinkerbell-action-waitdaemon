@@ -38,7 +38,7 @@ const (
 	// secondForkErrorCode is the exit code that should be used when the second fork was not run successfully.
 	secondForkErrorCode = 2
 	// defaultWaitTime is the amount of time to wait before running the user image.
-	defaultWaitTime = time.Duration(10) * time.Second
+	defaultWaitTime = time.Duration(1) * time.Second
 )
 
 func main() {
